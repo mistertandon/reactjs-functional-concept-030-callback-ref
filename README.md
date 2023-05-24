@@ -1,0 +1,3 @@
+#### callback ref in ReactJS
+
+ - A "callback ref" is a way to create a reference to a component or DOM element in a functional component, which can be useful for accessing and manipulating the component or element directly. The callback ref is a function that gets called with the mounted component or element as an argument, and it can store the reference in a state variable or elsewhere for later use. The useRef() hook can be used to create a callback ref in a functional component.
